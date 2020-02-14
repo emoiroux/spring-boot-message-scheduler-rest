@@ -1,7 +1,7 @@
 # Spring boot RESTful Web API message scheduler
 
 A Spring boot RESTful Web API that schedules messages to be printed in the console.
-I used https://start.spring.io/ as start kit.
+I used https://start.spring.io/ to start the project.
 
 ## Prerequisites
 
